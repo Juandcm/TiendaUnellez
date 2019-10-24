@@ -1,0 +1,436 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: AA62-9B14
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII
+
+17/11/2018  09:38 p.m.    <DIR>          .
+17/11/2018  09:38 p.m.    <DIR>          ..
+16/10/2018  05:59 p.m.    <DIR>          .phpintel
+01/01/2013  04:17 a.m.    <DIR>          Assets
+12/10/2018  04:00 p.m.    <DIR>          BaseDatos
+05/10/2018  08:37 p.m.    <DIR>          Config
+01/01/2013  12:33 a.m.    <DIR>          Controlador
+14/10/2018  11:19 a.m.               360 index.php
+17/11/2018  09:38 p.m.                 0 listado.txt
+17/11/2018  09:38 p.m.                26 listar.bat
+01/01/2013  12:31 a.m.    <DIR>          Modelo
+01/01/2013  12:30 a.m.    <DIR>          SubidArchivos
+09/10/2018  07:50 a.m.    <DIR>          Vista
+               3 archivos            386 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets
+
+01/01/2013  04:17 a.m.    <DIR>          .
+01/01/2013  04:17 a.m.    <DIR>          ..
+01/01/2013  02:11 a.m.    <DIR>          bootstrap
+01/01/2013  04:17 a.m.    <DIR>          css
+01/01/2013  12:15 a.m.    <DIR>          FineUploader
+12/10/2018  04:25 p.m.    <DIR>          icon
+12/10/2018  04:28 p.m.    <DIR>          img
+01/01/2013  04:17 a.m.    <DIR>          js
+               0 archivos              0 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\bootstrap
+
+01/01/2013  02:11 a.m.    <DIR>          .
+01/01/2013  02:11 a.m.    <DIR>          ..
+01/01/2013  02:49 a.m.    <DIR>          css
+01/01/2013  02:50 a.m.    <DIR>          js
+               0 archivos              0 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\bootstrap\css
+
+01/01/2013  02:49 a.m.    <DIR>          .
+01/01/2013  02:49 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.            97.016 bootstrap.min.css
+30/10/2016  11:11 a.m.            42.099 bootstrap.min.css.map
+               2 archivos        139.115 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\bootstrap\js
+
+01/01/2013  02:50 a.m.    <DIR>          .
+01/01/2013  02:50 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.            44.957 bootstrap.min.js
+               1 archivos         44.957 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\css
+
+01/01/2013  04:17 a.m.    <DIR>          .
+01/01/2013  04:17 a.m.    <DIR>          ..
+19/09/2016  08:37 a.m.            53.593 animate.min.css
+01/01/2013  06:41 a.m.           174.783 core.css
+01/01/2013  01:50 a.m.    <DIR>          datatable
+16/10/2018  05:45 p.m.             4.622 estilos.css
+02/08/2018  12:03 p.m.             7.463 fine-uploader-new.css
+05/08/2018  11:09 a.m.            33.959 jquery-ui.custom.css
+30/10/2016  11:11 a.m.               772 jquery.bootstrap-touchspin.css
+05/10/2017  10:13 a.m.             7.719 normalize.css
+01/01/2013  04:16 a.m.             3.351 owl.carousel.min.css
+31/08/2018  06:31 p.m.            26.747 sweetalert2.min.css
+               9 archivos        313.009 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\css\datatable
+
+01/01/2013  01:50 a.m.    <DIR>          .
+01/01/2013  01:50 a.m.    <DIR>          ..
+06/08/2018  02:04 p.m.            13.914 jquery.dataTables.min.css
+17/05/2018  11:48 a.m.             3.858 responsive.dataTables.min.css
+               2 archivos         17.772 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\FineUploader
+
+01/01/2013  12:15 a.m.    <DIR>          .
+01/01/2013  12:15 a.m.    <DIR>          ..
+01/01/2013  12:52 a.m.             3.623 ArchivosUsuario.php
+01/01/2013  12:31 a.m.             3.611 FotoUsuario.php
+02/08/2018  05:45 p.m.            12.396 handler.php
+12/08/2018  02:23 p.m.                43 index.php
+               4 archivos         19.673 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon
+
+12/10/2018  04:25 p.m.    <DIR>          .
+12/10/2018  04:25 p.m.    <DIR>          ..
+01/01/2013  01:55 a.m.    <DIR>          font-awesome
+01/01/2013  01:55 a.m.    <DIR>          fonts
+01/01/2013  01:55 a.m.    <DIR>          glyphicons
+12/10/2018  04:25 p.m.             2.007 logo.ico
+01/01/2013  01:55 a.m.    <DIR>          material-design-icons
+01/01/2013  02:33 a.m.    <DIR>          themify-icons
+               1 archivos          2.007 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\font-awesome
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+01/01/2013  01:56 a.m.    <DIR>          css
+01/01/2013  01:55 a.m.    <DIR>          fonts
+               0 archivos              0 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\font-awesome\css
+
+01/01/2013  01:56 a.m.    <DIR>          .
+01/01/2013  01:56 a.m.    <DIR>          ..
+19/09/2016  08:37 a.m.            21.778 font-awesome.css.map
+19/09/2016  08:37 a.m.            23.739 font-awesome.min.css
+               2 archivos         45.517 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\font-awesome\fonts
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+19/09/2016  08:37 a.m.            60.767 fontawesome-webfont.eot
+19/09/2016  08:37 a.m.           313.398 fontawesome-webfont.svg
+19/09/2016  08:37 a.m.           122.092 fontawesome-webfont.ttf
+19/09/2016  08:37 a.m.            71.508 fontawesome-webfont.woff
+19/09/2016  08:37 a.m.            56.780 fontawesome-webfont.woff2
+19/09/2016  08:37 a.m.            93.888 FontAwesome.otf
+               6 archivos        718.433 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\fonts
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+01/01/2013  01:55 a.m.    <DIR>          roboto
+               0 archivos              0 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\fonts\roboto
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+10/07/2016  10:03 p.m.            26.528 300.woff
+10/07/2016  10:03 p.m.            26.588 400.woff
+10/07/2016  10:03 p.m.            26.572 700.woff
+10/07/2016  10:13 p.m.               507 font.css
+               4 archivos         80.195 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\glyphicons
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+04/01/2016  10:54 a.m.            20.127 glyphicons-halflings-regular.eot
+04/01/2016  10:54 a.m.           108.738 glyphicons-halflings-regular.svg
+04/01/2016  10:54 a.m.            45.404 glyphicons-halflings-regular.ttf
+04/01/2016  10:54 a.m.            23.424 glyphicons-halflings-regular.woff
+04/01/2016  10:54 a.m.            18.028 glyphicons-halflings-regular.woff2
+05/01/2016  10:01 p.m.            14.263 glyphicons.css
+               6 archivos        229.984 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\material-design-icons
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+01/01/2013  01:55 a.m.    <DIR>          iconfont
+29/07/2015  04:12 p.m.             1.256 material-design-icons.css
+               1 archivos          1.256 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\material-design-icons\iconfont
+
+01/01/2013  01:55 a.m.    <DIR>          .
+01/01/2013  01:55 a.m.    <DIR>          ..
+19/09/2016  08:37 a.m.            13.773 codepoints
+03/08/2015  12:18 p.m.            13.773 codepoints.txt
+03/08/2015  12:18 p.m.             1.108 iconjar-map.js
+19/09/2016  08:37 a.m.           120.622 MaterialIcons-Regular.eot
+03/08/2015  12:18 p.m.            24.119 MaterialIcons-Regular.ijmap.txt
+19/09/2016  08:37 a.m.           107.780 MaterialIcons-Regular.ttf
+19/09/2016  08:37 a.m.            63.988 MaterialIcons-Regular.woff
+19/09/2016  08:37 a.m.            36.888 MaterialIcons-Regular.woff2
+19/09/2016  08:37 a.m.               302 README.md
+03/08/2015  12:18 p.m.               302 README.md.txt
+              10 archivos        382.655 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\themify-icons
+
+01/01/2013  02:33 a.m.    <DIR>          .
+01/01/2013  02:33 a.m.    <DIR>          ..
+01/01/2013  02:33 a.m.    <DIR>          fonts
+30/10/2016  11:11 a.m.            16.435 themify-icons.css
+               1 archivos         16.435 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\icon\themify-icons\fonts
+
+01/01/2013  02:33 a.m.    <DIR>          .
+01/01/2013  02:33 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.            78.748 themify.eot
+30/10/2016  11:11 a.m.           234.269 themify.svg
+30/10/2016  11:11 a.m.            78.584 themify.ttf
+30/10/2016  11:11 a.m.            56.108 themify.woff
+               4 archivos        447.709 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\img
+
+12/10/2018  04:28 p.m.    <DIR>          .
+12/10/2018  04:28 p.m.    <DIR>          ..
+28/02/2012  10:02 p.m.           639.141 1.jpg
+02/04/2012  11:03 a.m.           471.231 12.jpg
+12/10/2018  04:24 p.m.            23.627 logo.png
+               3 archivos      1.133.999 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js
+
+01/01/2013  04:17 a.m.    <DIR>          .
+01/01/2013  04:17 a.m.    <DIR>          ..
+01/01/2013  02:33 a.m.             5.028 app.js
+09/10/2018  08:40 p.m.            21.195 autoNumeric-min.js
+01/01/2013  01:51 a.m.    <DIR>          datatable
+01/01/2013  02:40 a.m.    <DIR>          detectmobilebrowser
+03/02/2018  11:27 a.m.             1.414 es.js
+11/10/2018  08:24 p.m.             1.462 frontend.js
+16/10/2018  05:44 p.m.            30.003 interaccion.js
+05/08/2018  11:01 a.m.            17.324 jquery-ui-tabs.js
+30/10/2016  11:11 a.m.            19.909 jquery.bootstrap-touchspin.js
+09/09/2018  11:17 a.m.           148.317 jquery.fine-uploader.min.js
+10/04/2018  02:52 p.m.           635.574 jquery.fine-uploader.min.js.map
+05/05/2018  03:10 p.m.            86.927 jquery.min.js
+29/07/2017  07:20 a.m.            23.261 jquery.validate.min.js
+01/01/2013  03:26 a.m.    <DIR>          jscrollpane
+05/10/2017  10:16 a.m.             1.526 modernizr-custom.js
+01/01/2013  04:16 a.m.            44.342 owl.carousel.min.js
+01/01/2013  01:03 a.m.    <DIR>          placeholders
+30/08/2018  11:54 a.m.               841 Spanish.json
+31/08/2018  06:32 p.m.            34.745 sweetalert2.min.js
+01/01/2013  02:40 a.m.    <DIR>          tether
+              15 archivos      1.071.868 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\datatable
+
+01/01/2013  01:51 a.m.    <DIR>          .
+01/01/2013  01:51 a.m.    <DIR>          ..
+17/05/2018  10:55 a.m.            17.885 dataTables.buttons.min.js
+17/05/2018  11:46 a.m.            11.056 dataTables.responsive.min.js
+12/08/2018  02:23 p.m.                43 index.php
+17/05/2018  10:53 a.m.            81.906 jquery.dataTables.min.js
+               4 archivos        110.890 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\detectmobilebrowser
+
+01/01/2013  02:40 a.m.    <DIR>          .
+01/01/2013  02:40 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.             2.211 detectmobilebrowser.js
+               1 archivos          2.211 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\jscrollpane
+
+01/01/2013  03:26 a.m.    <DIR>          .
+01/01/2013  03:26 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.             1.343 jquery.jscrollpane.css
+30/10/2016  11:11 a.m.            14.850 jquery.jscrollpane.min.js
+               2 archivos         16.193 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\placeholders
+
+01/01/2013  01:03 a.m.    <DIR>          .
+01/01/2013  01:03 a.m.    <DIR>          ..
+28/03/2017  08:08 p.m.             4.025 not_available-generic.png
+28/03/2017  08:08 p.m.             5.770 waiting-generic.png
+               2 archivos          9.795 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\tether
+
+01/01/2013  02:40 a.m.    <DIR>          .
+01/01/2013  02:40 a.m.    <DIR>          ..
+01/01/2013  02:40 a.m.    <DIR>          css
+01/01/2013  02:40 a.m.    <DIR>          js
+               0 archivos              0 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\tether\css
+
+01/01/2013  02:40 a.m.    <DIR>          .
+01/01/2013  02:40 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.             7.460 tether-theme-arrows-dark.css
+30/10/2016  11:11 a.m.             6.327 tether-theme-arrows-dark.min.css
+30/10/2016  11:11 a.m.             7.480 tether-theme-arrows.css
+30/10/2016  11:11 a.m.             6.305 tether-theme-arrows.min.css
+30/10/2016  11:11 a.m.               615 tether-theme-basic.css
+30/10/2016  11:11 a.m.               504 tether-theme-basic.min.css
+30/10/2016  11:11 a.m.               277 tether.css
+30/10/2016  11:11 a.m.               237 tether.min.css
+               8 archivos         29.205 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Assets\js\tether\js
+
+01/01/2013  02:40 a.m.    <DIR>          .
+01/01/2013  02:40 a.m.    <DIR>          ..
+30/10/2016  11:11 a.m.            54.362 tether.js
+30/10/2016  11:11 a.m.            24.218 tether.min.js
+               2 archivos         78.580 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\BaseDatos
+
+12/10/2018  04:00 p.m.    <DIR>          .
+12/10/2018  04:00 p.m.    <DIR>          ..
+01/01/2013  07:56 a.m.            11.117 BaseDatos.mwb
+01/01/2013  07:56 a.m.            11.117 BaseDatos.mwb.bak
+01/01/2013  07:55 a.m.            28.936 BASETIENDA.png
+12/10/2018  04:00 p.m.             8.784 tiendadesarrolloiiPHPMYADMIN.sql
+01/01/2013  07:56 a.m.             4.585 tiendadesarrolloiiWORBENCH.sql
+               5 archivos         64.539 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Config
+
+05/10/2018  08:37 p.m.    <DIR>          .
+05/10/2018  08:37 p.m.    <DIR>          ..
+16/10/2018  05:59 p.m.               638 Conexion.php
+18/10/2018  05:51 a.m.               225 Global.php
+               2 archivos            863 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Controlador
+
+01/01/2013  12:33 a.m.    <DIR>          .
+01/01/2013  12:33 a.m.    <DIR>          ..
+01/01/2013  07:03 a.m.               844 compra.php
+16/10/2018  05:59 p.m.             2.236 inventario.php
+01/01/2013  03:50 p.m.             1.680 usuario.php
+16/10/2018  05:59 p.m.               599 venta.php
+               4 archivos          5.359 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Modelo
+
+01/01/2013  12:31 a.m.    <DIR>          .
+01/01/2013  12:31 a.m.    <DIR>          ..
+16/10/2018  05:39 p.m.             6.055 Compra.php
+07/11/2018  03:34 p.m.             6.078 Funciones.php
+09/11/2018  09:40 p.m.            29.972 Inventario.php
+27/10/2018  03:18 a.m.            12.393 Usuario.php
+01/01/2013  04:09 a.m.             3.310 Venta.php
+               5 archivos         57.808 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\SubidArchivos
+
+01/01/2013  12:30 a.m.    <DIR>          .
+01/01/2013  12:30 a.m.    <DIR>          ..
+01/01/2013  12:52 a.m.    <DIR>          archivos
+07/08/2018  10:35 p.m.                41 index.php
+31/07/2018  10:01 p.m.    <DIR>          temporal
+               1 archivos             41 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\SubidArchivos\archivos
+
+01/01/2013  12:52 a.m.    <DIR>          .
+01/01/2013  12:52 a.m.    <DIR>          ..
+12/10/2018  03:54 p.m.    <DIR>          articulosUsuario
+12/10/2018  03:41 p.m.    <DIR>          fotosUsuario
+12/08/2018  02:20 p.m.                44 index.php
+               1 archivos             44 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\SubidArchivos\archivos\articulosUsuario
+
+12/10/2018  03:54 p.m.    <DIR>          .
+12/10/2018  03:54 p.m.    <DIR>          ..
+12/08/2018  02:21 p.m.                47 index.php
+31/07/2018  10:23 p.m.               966 indice.png
+               2 archivos          1.013 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\SubidArchivos\archivos\articulosUsuario\182197cf-484a-4cb9-9bbc-3b3991be6931
+
+12/10/2018  03:53 p.m.    <DIR>          .
+12/10/2018  03:53 p.m.    <DIR>          ..
+12/10/2018  03:53 p.m.            89.445 5.jpg
+               1 archivos         89.445 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\SubidArchivos\archivos\fotosUsuario\78b640db-6340-4d1a-887f-89f6ac2fa77b
+
+12/10/2018  03:41 p.m.    <DIR>          .
+12/10/2018  03:41 p.m.    <DIR>          ..
+12/10/2018  03:41 p.m.             7.578 avatar5.png
+               1 archivos          7.578 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\SubidArchivos\temporal
+
+31/07/2018  10:01 p.m.    <DIR>          .
+31/07/2018  10:01 p.m.    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Vista
+
+09/10/2018  07:50 a.m.    <DIR>          .
+09/10/2018  07:50 a.m.    <DIR>          ..
+10/10/2018  08:58 a.m.    <DIR>          Administrador
+16/10/2018  05:37 p.m.             4.816 administrador.php
+16/10/2018  05:35 p.m.             1.457 footer.php
+09/11/2018  03:57 p.m.             7.175 frontend.php
+01/01/2013  07:18 a.m.    <DIR>          General
+16/10/2018  05:35 p.m.             2.212 header.php
+01/01/2013  02:29 a.m.    <DIR>          Normal
+16/10/2018  05:35 p.m.             5.267 normal.php
+16/10/2018  05:35 p.m.             3.653 PlantillaSubidaFiles.php
+               6 archivos         24.580 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Vista\Administrador
+
+10/10/2018  08:58 a.m.    <DIR>          .
+10/10/2018  08:58 a.m.    <DIR>          ..
+10/10/2018  09:04 a.m.               412 articuloAprobados.php
+10/10/2018  09:04 a.m.               414 articuloAprobar.php
+               2 archivos            826 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Vista\General
+
+01/01/2013  07:18 a.m.    <DIR>          .
+01/01/2013  07:18 a.m.    <DIR>          ..
+16/10/2018  05:37 p.m.             1.565 modalAyuda.php
+16/10/2018  05:38 p.m.             1.063 modalContacto.php
+16/10/2018  05:38 p.m.             2.230 modalEditarUsuario.php
+01/01/2013  05:13 a.m.             1.506 modalEntrar.php
+01/01/2013  01:07 a.m.             2.010 modalRegistro.php
+09/10/2018  08:52 p.m.             1.951 modalSubirArticulo.php
+11/10/2018  09:18 p.m.               317 modalVerArticulo.php
+11/10/2018  10:21 p.m.               899 mostrarArticulos.php
+               8 archivos         11.541 bytes
+
+ Directorio de C:\xampp\htdocs\HechoPorMi\TiendaDesarrolloII\Vista\Normal
+
+01/01/2013  02:29 a.m.    <DIR>          .
+01/01/2013  02:29 a.m.    <DIR>          ..
+01/01/2013  02:37 a.m.               577 compra.php
+01/01/2013  07:29 a.m.             1.914 inventario.php
+11/10/2018  04:06 p.m.               316 modalCompra.php
+01/01/2013  02:30 a.m.               320 modalInformacionUsuario.php
+01/01/2013  07:29 a.m.             1.310 principal.php
+01/01/2013  03:07 a.m.               575 venta.php
+               6 archivos          5.012 bytes
+
+     Total de archivos en la lista:
+             178 archivos      7.035.949 bytes
+             188 dirs  24.602.730.496 bytes libres

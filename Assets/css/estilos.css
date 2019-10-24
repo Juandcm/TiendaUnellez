@@ -1,0 +1,252 @@
+.hover:hover{
+  background: linear-gradient(#e26c0f, #fc9c47);
+}
+
+/*Fondo Naranja (Danger)*/
+
+.bg-danger {
+  background: -webkit-gradient(linear, left top, left bottom, from(#e26c0f), to(#fc9c47)) !important;
+  background: linear-gradient(#e26c0f, #fc9c47) !important;
+}
+
+/*Fondo naranja unicor (warning)*/
+
+.bg-warning {
+  background: #e26c0f !important;
+  color: #fff;
+  border-radius: 5px 0px 0px 5px !important;
+}
+
+.bg-warning2 {
+  background: #e26c0f !important;
+  color: #fff;
+}
+
+/*Fondo naranja unicor (warning2)*/
+
+.bg-warning2 {
+  background: #e26c0f !important;
+  color: #fff;
+}
+
+/*Boton naranja unicor (warning)*/
+
+.btn-warning {
+  background: #e26c0f !important;
+  color: #fff;
+  border: 0px;
+  border-radius: 0px 5px 5px 0px !important;
+}
+
+/*Boton negro unicor (dark)*/
+
+.bg-dark {
+  background: #312f2f !important;
+}
+
+/*Fondo Gris - Navbar (light)*/
+
+.bg-light {
+  background: -webkit-gradient(linear, left top, left bottom, from(#e1dede), to(#ebeaea)) !important;
+  background: linear-gradient(#e1dede, #ebeaea) !important;
+}
+
+/*color texto amarillo claro (warning)*/
+
+.text-warning {
+  color: #ffffc6 !important;
+}
+
+/*color texto naranja claro (danger)*/
+
+.text-danger {
+  color: #e26c0f !important;
+}
+
+/*fondo titulo slider*/
+
+.bg-secondary {
+  background: #e1dede !important;
+}
+
+/*fondo autor slider*/
+
+.autor_inv {
+  background: #be5502 !important;
+  padding: 5px 0px !important;
+  font-size: 14px;
+  border-bottom: 21.3px solid #fff;
+  margin-top: -48px;
+}
+
+/*margin autor*/
+
+.p_autor {
+  margin-bottom: 0px !important;
+}
+
+/*vicerrectorado sede*/
+
+.vice_une {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+/*titulo slider*/
+
+.titulo_slider {
+  font-size: 14px;
+  height: 100%;
+}
+
+/*Botones + flechas del slider*/
+
+.owl-nav,
+.owl-dots {
+  display: none;
+}
+
+/*Titulo Slider*/
+
+.titulo_inv {
+  height: 175px;
+  overflow: hidden;
+}
+
+
+.bajarPoco{
+  margin-top: 21px;
+}
+.cabecera{
+  display: none;
+}
+div.dataTables_wrapper div.dataTables_filter {
+  width: 100% !important;
+  text-align: center !important;
+}
+.w-40 {
+  width: 50px;
+  height: 50px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+}
+.nav-fold {
+  padding: 0.75rem 1rem; }
+
+  .r {border-radius: 3px;}
+  ._500 {font-weight: 500;}
+  .block {display: block;}
+
+  .text-muted {
+    color: inherit !important;
+    opacity: 0.6;
+  }
+  .block {display: block;}
+
+  .nav-center .nav-fold .pull-left {
+    float: none !important;
+    margin-bottom: 10px;
+    display: inline-block; 
+  }
+  .pull-left {float: left;}
+
+  .p-x {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important; }
+
+    .clear {
+      display: block;
+      overflow: hidden; }
+
+      /* Modals */
+      .custom-modal-1 .cm-img {
+        position: relative;
+        height: 200px;
+      }
+
+      .custom-modal-1 .gradient {
+        position: absolute;
+        z-index: 9;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 0.8;
+      }
+
+      .custom-modal-1 .modal-body,
+      .custom-modal-1 .cm-content {
+        position: relative;
+        z-index: 10;
+      }
+
+      .custom-modal-1 .cm-content {
+        padding: 1.25rem;
+        color: #fff;
+        text-align: center;
+      }
+
+      .custom-modal-1 .cm-title {
+        padding-top: 40px;
+        font-weight: bold;
+        font-size: 2rem;
+        text-transform: uppercase;
+      }
+
+      .custom-modal-1 .cm-text {
+        color: rgba(255, 255, 255, 0.7);
+      }
+
+      /*Media query*/
+
+      @media (max-width: 320px) {
+        .text_size {
+          font-size: 1rem !important;
+        }
+
+        .titulo_inv {
+          height: 160px !important;
+        }
+
+        .titulo_slider {
+          font-size: 0.8rem !important;
+        }
+
+        footer {
+          font-size: 0.5rem !important;
+          text-align: center;
+        }
+      }
+
+
+
+      @media (max-width: 600px) {
+
+        .titulo_slider {
+          font-size: 0.9rem !important;
+        }
+
+        footer {
+          font-size: 0.8rem !important;
+        }
+      }
+
+      @media (max-width: 990px) {
+        .border_menu1,
+        .border_menu {
+          border-right: 0px;
+          border-left: 0px;
+          border-bottom: 1px solid #bababa;
+        }
+      }
+
+      @media (max-width: 1024px) {
+        .titulo_inv {
+          height: 220px;
+        }
+
+        .titulo_slider {
+          font-size: 0.8rem !important;
+        }
+      }

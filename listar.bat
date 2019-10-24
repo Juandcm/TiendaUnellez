@@ -1,0 +1,1 @@
+dir c:*.* /s > listado.txt
